@@ -4,3 +4,4 @@ example.py
 venv/
 build/
 dist/
+*.egg-info/
