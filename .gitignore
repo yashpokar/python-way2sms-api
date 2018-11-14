@@ -1,0 +1,6 @@
+*.pyc
+example.py
+
+venv/
+build/
+dist/

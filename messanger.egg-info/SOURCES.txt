@@ -1,0 +1,8 @@
+README.md
+setup.py
+messanger/__init__.py
+messanger.egg-info/PKG-INFO
+messanger.egg-info/SOURCES.txt
+messanger.egg-info/dependency_links.txt
+messanger.egg-info/requires.txt
+messanger.egg-info/top_level.txt
