@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setup(
 	name='messanger',
 	description='Free SMS API',
-	version='1.0',
+	version='2.0',
 	install_requires=(
 		'requests',
 		'lxml',
